@@ -1,0 +1,33 @@
+/* General */
+body {
+    font-family: arial,sans-serif;
+    background-color: rgb(255, 255, 255);
+}
+img {
+    image-orientation: flip;
+    margin-left: 200px;
+}
+
+.content {
+    padding-left: 300px;
+    padding-top: 233px;
+}
+.nav-wrapper * {
+    padding-left: -15%;
+}
+
+nav {
+    width: 650px;
+    background-color: white;
+    color: black;
+}
+
+#search {
+    padding-left: 15%;
+}
+
+.buttons {
+    padding-left: 15%;
+    padding-top: 3%;
+}
+/* END */
